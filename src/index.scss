@@ -35,8 +35,15 @@ body {
 	background-size: cover;
   color: #fff !important;
   background-color: #5bc0de !important;
-  padding-top: 204px;
   height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  @media (max-height: 767px) {
+    height: 767px;
+  }
 }
 
 .profileImage {
@@ -59,4 +66,10 @@ body {
 .active-scroll-spy {
   color: #FFFFFF !important;
   font-weight: 700;
+}
+
+#portfolioRow {
+  .card {
+    cursor: pointer;
+  }
 }
