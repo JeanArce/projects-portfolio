@@ -38,7 +38,7 @@ const Layout = () => {
             <Container className="text-center bg-info" fluid>
               <h1 className="display-2">Portfolio</h1>
               <p className="lead">
-                The name is Jean Arcenal and I am a Front End Developer student
+                My name is Jean Arcenal and I am a Front End Developer student
                 at Noroff Fagskole.
               </p>
               <img className="profileImage" src={profile} alt="Profile" />
@@ -55,28 +55,25 @@ const Layout = () => {
                   <h3 className="mb-2">About Jean</h3>
 
                   <p>
-                    He is a competent, analytical, flexible, and eager to
-                    perform individual. He sees himself working with an IT
-                    company or any other companies embracing technological
-                    means.
+                    I'm a passionate front-end development student with a deep
+                    love for creating engaging and user-friendly websites. A
+                    competent, analytical, flexible, and eager to perform
+                    individual. I sees myself working with an IT company or
+                    any other companies embracing technological means.
                   </p>
                   <p>
-                    Likewise, he also aims to contribute to the possible
-                    organization's growth and development given his skills and
+                    Likewise, I'm also aims to contribute to the possible
+                    organization's growth and development given my skills and
                     competencies.
                   </p>
                 </Col>
 
                 <Col lg={4}>
                   <h3 className="mb-2">Location</h3>
+                  <p>Hello there!</p>
                   <p>
-                    Hello there! I'm Jean Larroza Arcenal, I am originally from
-                    the Philippines and live here in Norway for 15 years, a
-                    passionate front-end development student with a deep love
-                    for creating engaging and user-friendly websites.
-                  </p>
-                  <p>
-                    If you are interested with Jean, leave him a message by
+                    Hi! Im Jean from Oslo, Norway. A Web Developer student at Noroff.
+                    If you are interested, leave a message by
                     clicking the contact me button at the top or contact link in
                     the navigation.
                   </p>
