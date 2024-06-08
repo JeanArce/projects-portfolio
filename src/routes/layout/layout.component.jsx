@@ -72,7 +72,7 @@ const Layout = () => {
                   <h3 className="mb-2">Location</h3>
                   <p>Hello there!</p>
                   <p>
-                    Hi! Im Jean from Oslo, Norway. A Web Developer student at Noroff.
+                    Im Jean from Oslo, Norway. A Web Developer student at Noroff.
                     If you are interested, leave a message by
                     clicking the contact me button at the top or contact link in
                     the navigation.
